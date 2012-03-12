@@ -1,9 +1,5 @@
 settings.inc.php
 *~
-views/*
-models/*
-components/*
-static/*
 cache/*
 meta/*
 meta/db.sqlite
